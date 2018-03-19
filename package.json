@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "homepage": "http://swear.at/me",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "chart.js": "^2.7.1",
+    "react": "^16.1.1",
+    "react-chartjs-2": "^2.6.4",
+    "react-dom": "^16.1.1",
+    "react-emojione": "^5.0.0",
+    "react-scripts": "1.0.17",
+    "styled-components": "^2.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
