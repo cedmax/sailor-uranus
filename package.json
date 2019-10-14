@@ -1,6 +1,5 @@
 {
   "name": "site",
-  "homepage": "http://swear.at/me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
